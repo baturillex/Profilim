@@ -1,2 +1,2 @@
 # Profilim
-Profilim kısmına giriş yapıldı
+Üye girişi yapan kullanıcı profilim kısmına bastığındada bilgileri geliyor.
